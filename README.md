@@ -10,7 +10,7 @@ Aplicación web desarrollada con streamlit para explorar los sismos de magnitud 
 
 ## Aplicación publicada
 
-**Enlace:** [https://proyecto-final-bryan.streamlit.app/](https://proyecto-final-bryan.streamlit.app/)
+**Enlace:** [Aplicación web](https://proyecto-final-bryan.streamlit.app/)
 
 ## Fuentes de los datos
 
