@@ -24,4 +24,4 @@ Los datos se cargan desde esas direcciones al ejecutar la aplicación; el reposi
 Se utilizó el asistente **Claude (Anthropic)** comoayuda de orientación en la redacción de la primera versión de `app.py` (funciones de carga con caché, filtros, indicadores, tabla, gráficos de plotly y mapa con streamlit-folium).
 También fue de utilidad para resolver los problemas del mapa base de las tareas anteriores (las capas base de CartoDB y de OpenStreetMap exigían llave o bloqueaban el acceso, por lo que se usa la capa de Esri).
 
-El autor declara comprender el funcionamiento de todo el código entregado y estar en capacidad de explicarlo.
+Declaro comprender el funcionamiento de todo el código entregado y estar en capacidad de explicarlo.
