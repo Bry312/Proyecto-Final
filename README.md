@@ -19,14 +19,6 @@ Aplicación web desarrollada con streamlit para explorar los sismos de magnitud 
 
 Los datos se cargan desde esas direcciones al ejecutar la aplicación; el repositorio no incluye archivos de datos.
 
-## Ejecución local
-
-```bash
-conda activate geopython
-pip install streamlit-folium   # si el ambiente aún no lo tiene
-streamlit run app.py
-```
-
 ## Declaración de uso de asistentes de inteligencia artificial
 
 Se utilizó el asistente **Claude (Anthropic)** comoayuda de orientación en la redacción de la primera versión de `app.py` (funciones de carga con caché, filtros, indicadores, tabla, gráficos de plotly y mapa con streamlit-folium).
