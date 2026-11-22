@@ -15,7 +15,7 @@ También  se agrega el documento final del proyecto final elaborado en Google Co
 
 [Aplicación web](https://proyecto-final-bryan.streamlit.app/)
 
-[Documento Final](https://bry312.github.io/Proyecto-Final/)
+[Documento Final](Documento_final.ipynb)
 
 ## Fuentes de los datos
 
