@@ -12,6 +12,7 @@ También  se agrega el documento final del proyecto final elaborado en Google Co
 ## Aplicación publicada
 
 **Enlaces:** 
+
 [Aplicación web](https://proyecto-final-bryan.streamlit.app/)
 
 [Documento Final](https://bry312.github.io/Proyecto-Final/)
