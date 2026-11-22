@@ -7,10 +7,14 @@
 ## Descripción
 
 Aplicación web desarrollada con streamlit para explorar los sismos de magnitud 3.0 o mayor registrados en Costa Rica y sus alrededores entre 2015 y 2025, y su relación con la división cantonal del país. Cada sismo se asigna, mediante una unión espacial, al cantón en que ocurrió; los sismos que ocurren en el mar quedan fuera de todo cantón y se clasifican como marinos.
+También  se agrega el documento final del proyecto final elaborado en Google Colab, el cual resumen todo el proceso de las entregas anteriores y este proyecto final.
 
 ## Aplicación publicada
 
-**Enlace:** [Aplicación web](https://proyecto-final-bryan.streamlit.app/)
+**Enlaces:** 
+[Aplicación web](https://proyecto-final-bryan.streamlit.app/)
+
+[Documento Final](https://bry312.github.io/Proyecto-Final/)
 
 ## Fuentes de los datos
 
